@@ -1,11 +1,11 @@
+![如图所示](http://or6fe9yua.bkt.clouddn.com/Resume.jpg)
+### **效果图如上：**
 ### **此简历模板来源于下述作者的GitHub。如果你也喜欢，可以移步于该前辈的GitHub->[DIYgod](https://github.com/DIYgod)**
 
 ### **也非常感谢DIY god前辈创作出这么好的模板，并愿意分享出来。**
 
 ### **自己学识浅薄，技能有限，只根据自己情况稍作修改。**
-### **效果图如下：**
 
-![如图所示](http://or6fe9yua.bkt.clouddn.com/Resume-min.pdf)
 
 ### **下面则是前辈原先的README文件内容。**
 # My Resume
